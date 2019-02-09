@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <BackstoryTranslations>
   
   <AbandonedChild47>
@@ -52,7 +52,7 @@
     <!-- EN: student  -->
     <titleShort>Student</titleShort>
     <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. He was very tall and was known for his good looks.\n\nThough he worried more about his hairstyle than his grades, he still somehow passed the final exams. -->
-    <desc>[PAWN_nameDef] ging naar school zoals een goede ruimtecadet betaamt. Hij was erg lang en stond bekend om zijn goede looks.\n\nHoewel hij zich meer zorgen maakte over zijn kapsel dan zijn cijfers, slaagde hij op een of andere manier nog steeds voor de eindexamens.</desc>
+    <desc>Zoals elke goede ruimte cadet ging [PAWN_nameDef] netjes naar school. Hij was erg lang en stond bekend om zijn mooie uiterlijk.\n\nHoewel hij zich meer zorgen maakte over zijn kapsel dan zijn cijfers, slaagde hij op een of andere manier nog steeds voor de eindexamens.</desc>
   </AcademyStudent80>
   
   <AccursedChild81>
@@ -111,56 +111,56 @@
   
   <AdventuringChild56>
     <!-- EN: adventuring child -->
-    <title>TODO</title>
+    <title>Kinder avonturier</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
-    <!-- EN: Axle was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port. -->
-    <desc>TODO</desc>
+    <titleShort>Avonturier</titleShort>
+    <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port. -->
+    <desc>[PAWN_nameDef] wilde graag technicus worden. Jaren lang was hij van plan om als verstekeling op een vrachtschip een nieuw, avontuurlijker leven te beginnen.\n\nOp een avond, nadat zijn ouders in slaap waren gevallen, lukte het hem om aan boord van een vrachtschip te komen, vlak voor het uit de haven vertrok.</desc>
   </AdventuringChild56>
   
   <AdventurousWeirdo83>
     <!-- EN: adventurous weirdo -->
-    <title>TODO</title>
+    <title>Rare avonturier</title>
     <!-- EN: weirdo -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Rare</titleShort>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated his life to his twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-    <desc>TODO</desc>
+    <desc>Een creatief maar raarpersoon, [PAWN_nameDef] weidde zijn leven aan zijn dubbele passie van middeleeuwse wereld geschiedenis en geavanceerde technologie.\n\n[PAWN_pronoun] was gefancineerde door het idee om een 'luchtridder' te worden met een glinsterend harnas en een gigantisch zwaard.1</desc>
   </AdventurousWeirdo83>
   
   <AdventurousYouth79>
     <!-- EN: adventurous youth -->
-    <title>TODO</title>
+    <title>Jonge Avonturier</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Avonturier</titleShort>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring his teenage years, [PAWN_nameDef] made numerous enemies -->
     <desc>TODO</desc>
   </AdventurousYouth79>
   
   <AerospaceEngineer44>
     <!-- EN: aerospace engineer -->
-    <title>TODO</title>
+    <title>Ruimte technicus</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Technicus</titleShort>
     <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was een technicus verantwoordelijk voor de productie van lucht- en ruimtevoertuigen. [PAWN_pronoun] richtte zich op het verbeteren van productie ketens en stond bekend voor [PAWN_possessive] deskundigheid van technische en onderzoeksmatige problemen.</desc>
   </AerospaceEngineer44>
   
   <AIProgrammer5>
     <!-- EN: aI programmer -->
-    <title>TODO</title>
+    <title>AI programmeur</title>
     <!-- EN: programmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Programmeur</titleShort>
     <!-- EN: Michael enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] schreef zich in voor de militaire robotica divisie, om slimmere gevechtsAI te ontwikkelen.\n\nin al die tijd dat hij deel nam, sprak hij nooit tegen iemand. Hij besteedde al zijn tijd aan praten met de AI die hij aan het ontwikkelen was.</desc>
   </AIProgrammer5>
   
   <AIResearcher30>
     <!-- EN: aI researcher -->
-    <title>TODO</title>
+    <title>AI onderzoeker</title>
     <!-- EN: researcher -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Onderzoeker</titleShort>
     <!-- EN: Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was een gerespecteerde onderzoeker in artificiele intelligentie, robotica en interactieve holografie. De vriendschappen die [PAWN_pronoun] had gesloten met de AIs die [PAWN_pronoun] had gecreërt gaven [PAWN_objective] de zelfverzekerdheid om met echte mensen te praten, en al snel blonk hij uit in sociale communicatie.</desc>
   </AIResearcher30>
   
   <AlcoholicTrucker58>
